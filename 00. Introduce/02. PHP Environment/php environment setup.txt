@@ -1,2 +1,4 @@
-1. PHP binary
-2. Code Editor
+PHP binary
+Code Editor
+Xampp for server
+code runner extention istall and configure
